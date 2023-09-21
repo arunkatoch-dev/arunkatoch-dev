@@ -1,4 +1,3 @@
-[![MasterHead](https://drive.google.com/file/d/1XpnXJ2fyp9tyxIjcdNF1qlDdE1R28UcR/view?usp=drive_link)]
 <h1 align="center">Hi 👋, I'm Arun Katoch</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -22,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkatoch-dev&show_icons=true&locale=en" alt="arunkatoch-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkatoch-dev&" alt="arunkatoch-dev" /></p>
