@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arun Katoch</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkatoch-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arunkatoch-dev" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **html, css, javascript, react, node, express, mongoose**
+- 💬 Ask me about **html, css, javascript, react, node, express, mongoose, Next js**
 
 - 📫 How to reach me **arunkatoch.dev@gmail.com**
 
